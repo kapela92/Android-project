@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Packard/Documents/Studia/Android/Projekt_1.1/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/Packard/Documents/Studia/Android/Projekt_1.1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Ustawienia</string>
+    <string name="app_name">Organizer</string>
+    <string name="button_add">Nowe zadanie</string>
+    <string name="button_cancel">Anuluj</string>
+    <string name="button_clear">Usuń Wykonane</string>
+    <string name="button_save">Zapisz zadanie</string>
+    <string name="edittext_hint_new_zadanie">Wpisz nowe zadanie...</string>
+    <!-- From: file:/C:/Users/Packard/Documents/Studia/Android/Projekt_1.1/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

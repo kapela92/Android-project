@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Organizer</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="button_add">Nowe zadanie</string>
+    <string name="button_clear">Usuń Wykonane</string>
+    <string name="edittext_hint_new_zadanie">Wpisz nowe zadanie...</string>
+    <string name="button_save">Zapisz zadanie</string>
+    <string name="button_cancel">Anuluj</string>
+</resources>
